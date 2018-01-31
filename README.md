@@ -11,3 +11,5 @@ Script walks through all available layers (or layer groups), ensures current one
 2. Choose File > Open and select downloaded exportLayers.jsx.
 
 3. Run the script.
+
+That's all!
